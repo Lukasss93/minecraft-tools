@@ -1,4 +1,6 @@
 <?php
+namespace MinecraftTools;
+
 class mcpremium
 {
 	const gioco="Minecraft";
