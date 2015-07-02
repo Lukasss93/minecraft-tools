@@ -1,7 +1,7 @@
 <?php
 
 /*
-Title:      Minecraft Avatar
+Title:      mcavatar
 URL:        http://github.com/jamiebicknell/Minecraft-Avatar
 Author:     Jamie Bicknell
 Twitter:    @jamiebicknell
