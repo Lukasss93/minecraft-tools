@@ -1,0 +1,15 @@
+{
+	"name": "lukasss93/minecraft-tools",
+	"description": "Minecraft Tools",
+	"minimum-stability": "stable",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Luca Patera",
+			"email": "lucapatera@outlook.it"
+		}
+	],
+	"require": {
+		"digitalnature/php-ref": "^1.2"
+	}
+}
