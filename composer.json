@@ -1,7 +1,6 @@
 {
 	"name": "lukasss93/minecraft-tools",
 	"description": "Minecraft Tools",
-	"minimum-stability": "stable",
 	"license": "MIT",
 	"authors": [
 		{
@@ -10,6 +9,12 @@
 		}
 	],
 	"require": {
-		"digitalnature/php-ref": "^1.2"
+		"digitalnature/php-ref": "^1.2",
+		"guzzlehttp/guzzle": "^6.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"MinecraftTools\\": "src/"
+		}
 	}
 }
