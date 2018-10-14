@@ -28,10 +28,10 @@ Using
 	print_r( MinecraftTools::serviceStatuses() );
 	
 	//Get UUID from username
-	print_r( MinecraftTools::getUUID('UUID') );
+	print_r( MinecraftTools::getUUID('Lukasss93') );
 	
 	//Get username from UUID
-	print_r( MinecraftTools::getUsername('Lukasss93') );
+	print_r( MinecraftTools::getUsername('UUID') );
 	
 	//Get name history from UUID
 	print_r( MinecraftTools::getNameHistory('UUID') );
