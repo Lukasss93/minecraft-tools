@@ -1,5 +1,8 @@
 # Minecraft Tools
 
+[![Latest Stable Version](https://poser.pugx.org/lukasss93/minecraft-tools/v/stable)](https://packagist.org/packages/lukasss93/minecraft-tools)
+[![Total Downloads](https://poser.pugx.org/lukasss93/minecraft-tools/downloads)](https://packagist.org/packages/lukasss93/minecraft-tools)
+[![License](https://poser.pugx.org/lukasss93/minecraft-tools/license)](https://packagist.org/packages/lukasss93/minecraft-tools)
 ![PHP](https://img.shields.io/badge/php-%3E%3D5.6-green.svg)
 
 > Minecraft Tools library for some basic API information.
